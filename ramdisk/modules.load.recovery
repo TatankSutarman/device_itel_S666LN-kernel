@@ -180,7 +180,7 @@ fair.ko
 adaptive-ts.ko
 focaltech_ft8057s_spi.ko
 omnivision_td4160.ko
-nfc_i2c.ko
+pn553.ko
 tran_rhi.ko
 tran_chg.ko
 tran_battery_aging.ko
